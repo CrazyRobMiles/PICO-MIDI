@@ -1,5 +1,5 @@
 # PICO-MIDI
-Some notes on getting started with MIDI on a PICO using a M5Stack devices [MIDI](https://docs.m5stack.com/en/unit/Unit-MIDI) and [Synth](https://docs.m5stack.com/en/unit/Unit-Synth)
+Some notes on getting started with MIDI on a PICO using a M5Stack devices [MIDI](https://docs.m5stack.com/en/unit/Unit-MIDI) and [Synth](https://docs.m5stack.com/en/unit/Unit-Synth) to accompany an article in [Raspberry Pi Official Magazine issue 154](https://magazine.raspberrypi.com/issues/154). 
  
 ![M5 Stack MIDI devices](/images/m5%20synth%20and%20midi.jpg)
 These notes have been written for the Raspberry Pi PICO family. The code might need slight modification to run on other devices supporting Circuit Python.  
