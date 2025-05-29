@@ -70,6 +70,12 @@ The resources you need are these:
 * **adafruit_bus_device** folder for the serial port drivers 
 * **Debouncer** for the input signal debouncer
 
+# Case
+
+![Case designs in FreeCAD](/images/case.png)
+
+You can find designs for the case in the case folder. It seemed logical to put them there. I used a flexible led strip. The current software only lights up some of the leds. Use tape or hot glue to hold the sound module in place. I stuck a battery holder into the base and added a switch to make a portable instrument. Alternatively you can just run a usb cable through the switch hole. 
+
 Have Fun
 
 Rob Miles
