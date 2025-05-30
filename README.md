@@ -78,4 +78,6 @@ You can find designs for the case in the case folder. It seemed logical to put t
 
 Have Fun
 
+You can find more of my projects [here](https://www.robmiles.com/projects)
+
 Rob Miles
